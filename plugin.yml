@@ -1,0 +1,9 @@
+name: NapThe
+main: MCPEVN\NapThe
+version: 4.0
+api: 3.0.0
+commands:
+  napthe:
+    description: Nạp Thẻ command!
+  nappoint:
+    description: Nạp Thẻ command!
