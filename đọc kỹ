@@ -1,0 +1,7 @@
+<plugin của MCPEVN SERVER>
+<ip server: play.mcpevn.com>
+
+cần các plugin sau đễ hoạt động
+1. setvip: https://github.com/MCPEVN-TEAM/SetVip
+2. pureperm: https://github.com/PurePlugins/PurePerms/releases
+3. economy api:  https://github.com/onebone/EconomyS/tree/master/EconomyAPI
