@@ -2,9 +2,10 @@
 ░▒█░▒█░▒█░░▐█──▒▐█▄█░▐█▀▀░▒█▒█░▒▐█▒█▒█░     ░░▒█░░░▐█▀▀░▐█▄▄▐█░▒█░▒█░▒█░
 ▒▐█░░░░▒█▌░▐█▄█▒▐█░░░▐█▄▄░▒▀▄▀░▒██░▒██▌     ░▒▄█▄░░▐█▄▄░▐█─░▐█▒▐█░░░░▒█▌
 
-
+HỖ TRỢ CHẠY PLUGIN TỪ A->Z LIÊN HỆ: https://www.facebook.com/yagami.raito.2k
 <plugin của MCPEVN SERVER>
 <ip server: play.mcpevn.com>
+
 
 cần các plugin sau đễ hoạt động
 1. setvip: https://github.com/MCPEVN-TEAM/SetVip
